@@ -30,7 +30,7 @@ form.onsubmit = (event) => {
 }
 
 function displayResultMessage(result, category){
-  const message = `Seu IMC é de ${result}</br><span>${category}</span>`
+  const message = `<span>${category}</span></br>Seu IMC é de ${result}`
   
   Modal.message.innerHTML = message
   Modal.open()
