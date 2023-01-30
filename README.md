@@ -18,7 +18,7 @@
 This is a project developed on Stage 5 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat). 
 
 
-In this project, the main goal was to understand and practice JavaScript ES6 modules. For that it was developed a BMI Calculator, where the user input the heigh (cm) and weight (kg) and it returns the IMB result, informing if it is 
+In this project, the main goal was to understand and practice JavaScript ES6 modules. For that it was developed a BMI Calculator, where the user input the height (cm) and weight (kg) and it returns the IMB result, informing if it is 
 
 I could practice and study:
 
