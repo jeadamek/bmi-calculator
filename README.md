@@ -15,10 +15,10 @@
 
 ## ✏️ About
 
-This is a project developed on Stage 5 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat). 
+This project was developed on Stage 5 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course assignments click [this link](https://github.com/jeadamek/explorer-rocketseat). 
 
 
-In this project, the main goal was to understand and practice JavaScript ES6 modules. For that it was developed a BMI Calculator, where the user input the height (cm) and weight (kg) and it returns the IMB result, informing if the person is underweight,  healthy weight, overweight or obese. 
+n this project, the main goal was to understand and practice JavaScript ES6 modules. For that it was developed a BMI Calculator, where the user inputs the height (cm) and weight (kg) and it returns the IMB result, informing if the person is underweight,  healthy weight, overweight or obese. 
 
 I could practice and study:
 
@@ -28,7 +28,8 @@ I could practice and study:
 - ES6 modules;
 - JavaScript Modal.
 
-The desktop page can be seen in the image below:<br/>
+The desktop page can be seen in the image below:
+<br/>
 
 ![preview](https://user-images.githubusercontent.com/78454317/215364703-8e3248f9-aa1e-4fe4-a033-1e18ca90aee0.png)
 ![preview](https://user-images.githubusercontent.com/78454317/215364858-b79957ec-917f-4dbc-a7aa-efa3c127c21f.png)
@@ -53,6 +54,11 @@ To access the project, click on the link below:
 
 ## 🎨 Layout
 🔗 [View on Figma](https://www.figma.com/file/Zb5pnekJaECQU6t0o4A9Z1/IMC-(Copy)?node-id=6%3A4&t=b6xcNQqyadjFOKZx-1)
+
+
+## 📝 License
+
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
 
 
 ## 🎯 Author
